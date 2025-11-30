@@ -99,8 +99,8 @@ void client(int wfd, int rfd) {
 
 
 ## OUTPUT
-<img width="812" height="364" alt="image" src="https://github.com/user-attachments/assets/006ff607-6d4f-441b-99bb-e41c9b129fa1" />
 
+![Image1](images/33.png)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -187,9 +187,9 @@ void client() {
 
 
 ## OUTPUT
-<img width="794" height="380" alt="image" src="https://github.com/user-attachments/assets/0be12799-4be9-4b81-a5a6-66b83b1fde9b" />
 
 
+![Image2](images/44.png)
 
 # RESULT:
 The program is executed successfully.
